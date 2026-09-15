@@ -1,6 +1,6 @@
 ---
 title: "Three Lab"
-format: html
+format: pdf
 editor: visual
 ---
 
