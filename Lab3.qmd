@@ -46,4 +46,16 @@ library(dplyr)
 we can remove warning messages by doing the code above , need to use #| to 
 disable warning
 
+## Question 7
+
+```{r}
+
+
+
+iris2 <- arrange(iris, Petal.Length)
+
+
+head(iris2)
+
+```
 
