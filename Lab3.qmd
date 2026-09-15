@@ -6,16 +6,13 @@ editor: visual
 
 ## Question 1
 
-Git says "Already up to Date" which makes sense because nothing has changed
-within github that we dont already have
+Git says "Already up to Date" which makes sense because nothing has changed within github that we dont already have
 
 ## Question 2/3
 
-This should be typed into your console because when input into code it will
-not run correctly
+This should be typed into your console because when input into code it will not run correctly
 
-library() should also go within the qmd file because it allows the file to access
-the given library (example, palmerspenguins)
+library() should also go within the qmd file because it allows the file to access the given library (example, palmerspenguins)
 
 ## Question 4
 
@@ -23,8 +20,7 @@ the given library (example, palmerspenguins)
 palmerpenguins::penguins
 ```
 
-This is not supposed to work because i do not have the library set up for 
-palmerspenguins yet
+This is not supposed to work because i do not have the library set up for palmerspenguins yet
 
 ```{r}
 
@@ -34,8 +30,7 @@ penguins
 
 ## Question 5
 
-technically right now, we do not for some reason. But normally you need to 
-access the library() function first before so they can access the 
+technically right now, we do not for some reason. But normally you need to access the library() function first before so they can access the
 
 ## Question 6
 
@@ -43,8 +38,8 @@ access the library() function first before so they can access the
 #| warning: false
 library(dplyr)
 ```
-we can remove warning messages by doing the code above , need to use #| to 
-disable warning
+
+we can remove warning messages by doing the code above , need to use #\| to disable warning
 
 ## Question 7
 
@@ -59,3 +54,6 @@ head(iris2)
 
 ```
 
+## Question 8
+
+![](imagesrepo3/lab3screenshot.png)
