@@ -1,0 +1,26 @@
+---
+title: "Three Lab"
+format: html
+editor: visual
+---
+
+## Question 1
+
+Git says "Already up to Date" which makes sense because nothing has changed
+within github that we dont already have
+
+## Question 2
+
+This should be typed into your console because when input into code it will
+not run correctly
+
+library() should also go within the qmd file because it allows the file to access
+the given library (example, palmerspenguins)
+
+```{r}
+
+penguins
+
+```
+
+
